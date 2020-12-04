@@ -10,7 +10,7 @@ public class CarController {
 	
 	@GetMapping
 	public String getStart() {
-		return "Started";
+		return "Github and Heroku were tested";
 	}
 
 }
